@@ -11,4 +11,5 @@ This app allows users to reserve a table to eat at this particular restaurant. I
 
 ## Contributers
 @VeigerMain
+
 @klee138
